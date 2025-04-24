@@ -23,9 +23,9 @@
 # promedio = suma /cant
 # print("el promedio es: ",round,{promedio})
 
-cant=int(input("ingrese la cantidad de numeros"))
-n1=int(input("ingrese su nota"))
-suma=0
-for i in range(cant):
-    suma+=n1
-print("la suma de todos los numeros es", suma)
+# cant=int(input("ingrese la cantidad de numeros"))
+# n1=int(input("ingrese su nota"))
+# suma=0
+# for i in range(cant):
+#     suma+=n1
+# print("la suma de todos los numeros es", suma)
