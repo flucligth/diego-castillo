@@ -1,0 +1,1 @@
+alumnos=int(input("ingres la cantidad de alumnos"))
